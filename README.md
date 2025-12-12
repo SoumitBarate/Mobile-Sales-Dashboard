@@ -1,6 +1,6 @@
 # 📊 Mobile Sales Dashboard – Power BI
 
-![Dashboard Preview](Dashboard.png)
+![Dashboard Preview](dashboard-preview.png)
 
 This repository contains an interactive **Mobile Sales Dashboard** built using **Microsoft Power BI**. The dashboard visualizes mobile sales performance, customer behavior, and monthly trends using clean visuals and DAX calculations.
 
@@ -13,7 +13,7 @@ This repository contains an interactive **Mobile Sales Dashboard** built using *
 - 📂 **Icons**  
   Icons used in the Power BI report visuals
 
-- 📂 **Dashboard**  
+- 📂 **dashboard-preview**  
   Dashboard image for reference
 
 - 📄 **dataset.xlsx**  
